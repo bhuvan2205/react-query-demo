@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "rahul"
+    },
+    {
+      "id": 2,
+      "title": "react",
+      "author": "sumen"
+    },
+    {
+      "id": 3,
+      "title": "react-query",
+      "author": "priti"
+    },
+    {
+      "id": 4,
+      "title": "my tech",
+      "author": "prince"
+    },
+    {
+      "id": 5,
+      "title": "jotai",
+      "author": "bhuvan"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Really nice"
+    },
+    {
+      "id": 2,
+      "comment": "This is awesome"
+    },
+    {
+      "comment": "This is for testing",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
